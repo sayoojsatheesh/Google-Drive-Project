@@ -1,0 +1,31 @@
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+.btn{
+    background-color:rgb(177, 6, 177);
+    border-radius: 10px;
+    padding: 1rem 2rem;
+    outline: none;
+    border: 1px  black;
+    box-shadow: 0 0 10px purple;
+    font-size: 25px;
+
+}
+.btn:hover{
+    cursor: pointer;
+}
+
+.dataicon{
+    margin-left: 5px;
+    height: 25px;
+}
+
+.maindisplay{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}

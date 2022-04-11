@@ -1,0 +1,25 @@
+.btn2{
+    font-size: 25px;
+    font-family: 'Courier New', Courier, ;
+    font-weight: bolder;
+    background-color: rgba(0,97,254,255);
+    border-radius: 8px;
+    margin-left: 1.5rem;
+    box-shadow: 0 0 5px blue;
+    outline: none;
+}
+
+.btn2:hover{
+    cursor: pointer;
+}
+
+.dropboximg{
+    width: 109px;
+    height: 109px;
+}
+
+.span1{
+    display: flex;
+    align-items: center;
+    padding: .5rem 1rem;
+}

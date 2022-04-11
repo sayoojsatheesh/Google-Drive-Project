@@ -1,0 +1,22 @@
+img{
+    width: 100px;
+    height: 100px;
+}
+
+.btn1{
+    font-size: 25px;
+    font-family: 'Courier New', Courier, ;
+    font-weight: bolder;
+    background: linear-gradient(to right,rgb(214, 214, 5),rgb(122, 122, 2));
+    border-radius: 8px;
+   
+}
+.btn1:hover{
+    cursor: pointer;
+}
+
+span{
+    display: flex;
+    align-items: center;
+    padding:  .7rem 1rem;
+}
